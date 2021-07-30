@@ -1,12 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "autos": [
+    { "id": 1, "patente": "QW4567", "marcaId": "2", "color": "rojo", "litrosEstanque": "35" },
+    { "id": 2, "patente": "sd5464", "marcaId": "3", "color": "azul", "litrosEstanque": "40" },
+    { "id": 3, "patente": "iu8585", "marcaId": "1", "color": "rojo", "litrosEstanque": "45" },
+    { "id": 4, "patente": "qr3523", "marcaId": "4", "color": "rojo", "litrosEstanque": "50" },
+    { "id": 5, "patente": "vn7685", "marcaId": "5", "color": "plateado", "litrosEstanque": "55" },
+    { "id": 6, "patente": "et7586", "marcaId": "1", "color": "azul", "litrosEstanque": "30" },
+    { "id": 7, "patente": "pp5656", "marcaId": "1", "color": "verde", "litrosEstanque": "42" },
+    { "id": 8, "patente": "er3322", "marcaId": "2", "color": "verde", "litrosEstanque": "44" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "marca": [
+    { "id": 1, "marca": "jac"},
+    { "id": 2, "marca": "peugeot"},
+    { "id": 3, "marca": "nissan"},
+    { "id": 4, "marca": "kia"},
+    { "id": 5, "marca": "jeep"}
   ],
   "profile": {
     "name": "typicode"
