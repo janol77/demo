@@ -10,11 +10,11 @@
     { "id": 8, "patente": "er3322", "marcaId": "2", "color": "verde", "litrosEstanque": "44" }
   ],
   "marca": [
-    { "id": 1, "marca": "jac"},
-    { "id": 2, "marca": "peugeot"},
-    { "id": 3, "marca": "nissan"},
-    { "id": 4, "marca": "kia"},
-    { "id": 5, "marca": "jeep"}
+    { "id": 1, "nombre": "jac"},
+    { "id": 2, "nombre": "peugeot"},
+    { "id": 3, "nombre": "nissan"},
+    { "id": 4, "nombre": "kia"},
+    { "id": 5, "nombre": "jeep"}
   ],
   "profile": {
     "name": "typicode"
